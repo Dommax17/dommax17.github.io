@@ -132,6 +132,11 @@ header {
     font-family: "Times New Roman", serif;
 }
 
+#backButton:hover {
+    background-color: lightblue;
+    color: #191a1d;
+}
+
 /* Format the button, hidden on startup */
 #myBtn {
     display: none;
